@@ -23,6 +23,9 @@
         display: flex;
         justify-content: space-between;
         margin-top: 40px;
+        app-work-list {
+          width: 23%;
+        }
       }
     }
     .main__right {
